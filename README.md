@@ -1,2 +1,4 @@
 <h1>Open Project</h1>
-<p>Upcoming details</p>
+<ul>
+	<li>Learning Vulkan at the moment...</li>
+</ul>
